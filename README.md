@@ -52,5 +52,15 @@ Company Website URL + LinkedIn Profile URL
 ---
 
 # Sample Output
+
+## Company Research Sample Output
+
 ![Sales Copilot Sample Company Research Output](screenshots/company-research-output.png)
 
+## Prospect Research Sample Output
+
+![Sales Copilot Sample Prospect Research Output](screenshots/prospect-research-output.png)
+
+## Pre-Call report Sample Output
+
+![Sales Copilot Sample Prospect Research Output](screenshots/pre-call-report-output.png)
