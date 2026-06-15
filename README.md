@@ -77,7 +77,7 @@ Company Website URL + LinkedIn Profile URL
 
 ## AI Pre-Call Intelligence Copilot Prompt
 
-![Sales Copilot Sample Sales Co-Pilot](screenshots/AI Pre-Call Intelligence Copilot.png)
+![Sales Copilot Sample Sales Co-Pilot](screenshots/AI-Pre-Call-Intelligence-Copilot.png)
 
 
 ## AI Pre-Call Intelligence Copilot Input
